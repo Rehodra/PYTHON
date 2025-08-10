@@ -30,4 +30,6 @@ This project allows **two players** to play alternately on the same computer, wi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Rehodra/PYTHON/tree/main/tic-tac-toe.git
+   cd tic_tac_toe
+   
    
