@@ -29,7 +29,9 @@ This project allows **two players** to play alternately on the same computer, wi
 ## 🚀 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rehodra/PYTHON/tree/main/tic-tac-toe.git
-   cd tic_tac_toe
+   git clone https://github.com/Rehodra/PYTHON.git
+   cd PYTHON/tic-tac-toe
+   python tic_tac_toe.py
+
    
    
