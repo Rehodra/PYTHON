@@ -16,8 +16,7 @@ This project allows **two players** to play alternately on the same computer, wi
 ---
 
 ## 📸 Screenshot
-> *(Add your own screenshot here)*  
-![Tic Tac Toe Screenshot](screenshot.png)
+<img width="405" height="405" alt="image" src="https://github.com/user-attachments/assets/01e76d7a-f54f-4c28-b9d7-babb29ec0e77" />
 
 ---
 
@@ -30,4 +29,4 @@ This project allows **two players** to play alternately on the same computer, wi
 ## 🚀 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-tkinter.git
+   git clone https://github.com/Rehodra/tic-tac-toe-tkinter.git
